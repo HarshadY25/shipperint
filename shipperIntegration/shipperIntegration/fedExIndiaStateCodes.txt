@@ -1,0 +1,35 @@
+Andaman & Nicobar:AN
+Andhra Pradesh:AP
+Delhi:DL
+Arunachal Pradesh:AR
+Assam:AS
+Bihar:BR
+Chattisgarh:CG
+Chandigarh:CH
+Daman & Diu:DD
+Dadra and Nagar Haveli:DN
+Goa:GA
+Gujarat:GJ
+Haryana:HR
+Himachal Pradesh:HP
+Jammu & Kashmir:JK
+Jharkhand:JH
+Karnataka:KA
+Kerala:KL
+Lakshdweep:LD
+Madhya Pradesh:MP
+Maharashtra:MH
+Manipur:MN
+Meghalaya:ML
+Mizoram:MZ
+Nagaland:NL
+Orissa:OR
+Punjab:PB
+Puducherry:PY
+Rajasthan:RJ
+Sikkim:SK
+Tamil Nadu:TN
+Tripura:TR
+Uttaranchal:UA
+Uttar Pradesh:UP
+West Bengal:WB
